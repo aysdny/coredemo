@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|c:\\users\\pc\\source\\repos\\coredemo\\views\\notification\\allnotification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|solutionrelative:views\\notification\\allnotification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A45D01-A66B-4CAC-A130-5FD052FBDB56}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\pc\\source\\repos\\businesslayer\\concrete\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|c:\\users\\pc\\source\\repos\\coredemo\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|c:\\users\\pc\\source\\repos\\coredemo\\views\\writer\\writernavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|solutionrelative:views\\writer\\writernavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|c:\\users\\pc\\source\\repos\\coredemo\\views\\shared\\writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04F84548-E20B-49B8-9AB9-5D91DF3773B1}|CoreDemo.csproj|solutionrelative:views\\shared\\writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllNotification.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Views\\Notification\\AllNotification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Notification\\AllNotification.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Views\\Notification\\AllNotification.cshtml",
+              "RelativeToolTip": "Views\\Notification\\AllNotification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T01:45:11.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WriterNavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Views\\Writer\\WriterNavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Writer\\WriterNavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Views\\Writer\\WriterNavbarPartial.cshtml",
+              "RelativeToolTip": "Views\\Writer\\WriterNavbarPartial.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T01:36:02.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WriterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\WriterLayout.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\WriterLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T01:35:46.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\BusinessLayer\\Concrete\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrete\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\BusinessLayer\\Concrete\\NotificationManager.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Concrete\\NotificationManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:33:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\CoreDemo\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:32:14.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
